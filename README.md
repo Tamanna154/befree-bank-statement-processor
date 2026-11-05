@@ -106,18 +106,3 @@ npm start
 │           └── csv-exporter.ts          # Standard CSV generator
 ```
 
----
-
-## 🌐 Deployment to Vercel
-
-This repository is optimized for zero-config Vercel deployment:
-1. Connect this GitHub repository on [Vercel](https://vercel.com/new).
-2. Framework Preset: **Next.js**
-3. Click **Deploy**.
-
----
-
-## 👤 Author
-- **Tamanna Oza**
-- GitHub: [https://github.com/Tamanna154](https://github.com/Tamanna154)
-- Vercel: [https://vercel.com/tamannaoza15-1159s-projects](https://vercel.com/tamannaoza15-1159s-projects)
